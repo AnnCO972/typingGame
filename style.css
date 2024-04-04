@@ -1,0 +1,28 @@
+.highlight{
+    background-color: yellow;
+}
+
+h1{
+    color: #da9525;
+    text-align: center;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.error{
+    background-color: lightcoral;
+    border: red;
+}
+
+#start{
+    background-color: #3FED13;
+}
+
+#quote{
+    font-style: italic;
+}
+
+#typed-value {
+    min-width: 500px;
+}
